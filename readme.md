@@ -1,4 +1,10 @@
 # flask-adminlte-handler
+
+# 注意：
+无论是在linux上还是macos上运行一定要使用命令行窗口运行。</br>
+同时如果安装了anaconda的话，可以直接省去下面的虚拟环境的安装</br>
+应用启动的命令为python manage.py runserver 2>&1 &</br>
+
 ## 简介
 flask-adminlte-handler是一个Python环境下的WEB后台管理系统脚手架，目标是用极少量的代码，快速构建小型WEB应用。请勿在大中型项目中进行尝试。  
 
